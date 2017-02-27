@@ -1,5 +1,7 @@
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
+[![API Testing](https://img.shields.io/badge/API%20Test-RapidAPI-blue.svg)](https://rapidapi.com/package/Soundcloud/functions?utm_source=SoundcloudGithub&utm_medium=button&utm_content=Vender_GitHub)
+
 - [soundclouder.js [![Build Status](https://api.travis-ci.org/khilnani/soundclouder.js.png?branch=master)](https://travis-ci.org/khilnani/soundclouder.js)](#soundclouderjs-!build-statushttpsapitravis-ciorgkhilnanisoundclouderjspngbranch=masterhttpstravis-ciorgkhilnanisoundclouderjs)
 - [SoundCloud APIs Implemented](#soundcloud-apis-implemented)
 - [Usage](#usage)
